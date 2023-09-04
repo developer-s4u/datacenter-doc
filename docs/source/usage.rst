@@ -4,7 +4,7 @@ Usage
 .. _installation:
 
 Installation
---------
+--
 
 install proxmox
 
